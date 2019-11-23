@@ -4,3 +4,8 @@ Download a specific file from a github repo
 
 https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
 Tips data set
+
+https://github.com/jupyter/notebook/issues/3805
+read dataset from local file
+
+
