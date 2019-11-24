@@ -6,7 +6,33 @@ https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
 Tips data set
 
 https://github.com/jupyter/notebook/issues/3805
-read dataset from local file
+Read dataset from local file
 
 ://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
-general springboard for approach - though he did come to the conclusion that there isn't a strong relationship between total bill and tip size, so I won't place much faith in his conclusions
+General springboard for approach - though he did come to the conclusion that there isn't a strong relationship between total bill and tip size, so I won't place much faith in his conclusions
+
+https://stackoverflow.com/questions/28418988/how-to-make-a-histogram-from-a-list-of-strings-in-python
+Use Counter
+
+https://stackoverflow.com/questions/19746350/how-does-one-change-color-in-markdown-cells-ipython-jupyter-notebook
+How to get coloured font in jupyter
+
+https://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe
+Dropping a column from a dataset (though I think I did not use this in the end)
+
+https://thispointer.com/python-pandas-how-to-add-rows-in-a-dataframe-using-dataframe-append-loc-iloc/
+Appending to a dataframe
+
+https://www.imdb.com/title/tt0105236/
+Reservoid Dogs details
+
+https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/Adding a new column to a dataframe
+
+https://www.programiz.com/python-programming/methods/list/append
+Appending to a list
+
+https://stackoverflow.com/questions/43772362/how-to-print-a-specific-row-of-a-pandas-dataframe
+Printing specific rows of a dataframe
+
+https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe
+Counting the rows of a dataframe
