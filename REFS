@@ -36,3 +36,9 @@ Printing specific rows of a dataframe
 
 https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe
 Counting the rows of a dataframe
+
+https://seaborn.pydata.org/generated/seaborn.countplot.html
+Qualitative data plot comparison
+
+https://github.com/googlecolab/colabtools/issues/248
+Addressing seaborn error
