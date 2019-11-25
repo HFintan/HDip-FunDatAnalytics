@@ -42,3 +42,8 @@ Qualitative data plot comparison
 
 https://github.com/googlecolab/colabtools/issues/248
 Addressing seaborn error
+
+https://seaborn.pydata.org/generated/seaborn.pairplot.html
+https://seaborn.pydata.org/generated/seaborn.catplot.html
+https://seaborn.pydata.org/tutorial/relational.html#relating-variables-with-scatter-plots
+Seaborn tutorials
